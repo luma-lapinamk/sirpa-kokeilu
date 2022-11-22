@@ -12,7 +12,7 @@ kernelspec:
 
 # Matikka
 
-Tämä on harjoittelua, että miten luodaan tekstiä. 
+Tämä on harjoittelua, että miten luodaan tekstiä. Päivitystesti klo 14:04.
 
 ## Esimerkki: harjoitusta
 
